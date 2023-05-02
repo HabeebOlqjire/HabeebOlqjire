@@ -2,7 +2,7 @@
 - 👀 I’m interested in software programming 
 - 🌱 I’m currently learning HTML 
 - 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me insidehabeebolqjire@gmail.com
+- 📫 How to reach me insidehabeebolajire@gmail.com
 
 <!---
 HabeebOlqjire/HabeebOlqjire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
